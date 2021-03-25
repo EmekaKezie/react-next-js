@@ -1,0 +1,29 @@
+.nav{
+    border:0px solid green;
+    /* background-color: lightskyblue; */
+    border-bottom:1px solid lightgray;
+}
+
+.nav ul{
+    border:0px solid gray;
+    padding:0;
+    overflow: hidden;
+    margin: 0;
+}
+
+.nav li{
+    border:0px solid gray;
+    display:block;
+    float:left;
+    padding:0.5rem 1rem;
+}
+
+.nav a{
+    display:block;
+}
+
+
+.nav .active{
+    border-bottom:2px solid blue;
+    
+}
