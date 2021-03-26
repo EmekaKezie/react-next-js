@@ -14,6 +14,8 @@ export const getStaticProps = async () => {
 
 
 
+
+
 function articles(props) {
     const { articles } = props
     return (
